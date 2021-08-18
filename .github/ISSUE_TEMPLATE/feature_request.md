@@ -1,7 +1,7 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: "[FEAT] "
+title: ""
 labels: enhancement
 assignees: ""
 
@@ -9,6 +9,7 @@ assignees: ""
 
 ## Description
 <!-- A clear and concise description of what you want to happen. -->
+
 
 ## Features
 <!-- Specific implementable attributes for this solution. -->
